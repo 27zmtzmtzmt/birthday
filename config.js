@@ -2,8 +2,7 @@
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
-    texts:[
-        "today is ur birthday",
+    texts:["today is ur birthday",
         "happy birthday to you",
         "you were born when you were born",
         "you born where you born",
