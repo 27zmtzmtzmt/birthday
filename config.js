@@ -16,10 +16,10 @@ var config = {
         "here's your digital birthday cake:"
         "( o˘◡˘o) ┌iii┐"
         "blow out the candles!"
-        "( o˘◡˘o) ┌111┐"
+        "( o˘◡˘o) ┌lll┐"
         "good job"
-        "have a great birthday!"
-        ],/**
+        "have a great birthday!"],
+    /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
      * "对应上面的文字, 要完全一样" : "图片地址, 可以把图片放在imgs文件夹中"
      * 例如
