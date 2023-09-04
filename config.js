@@ -1,24 +1,5 @@
 // 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
 var config = {
-    // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
-    // 每句话尽量不要超过15个字,不然展示效果可能不太好
-    texts:["today is ur birthday",
-        "happy birthday to you",
-        "you were born when you were born",
-        "you born where you born",
-        "you grew up when you grew up",
-        "you ate the birthday cakes as many as how many years you lived(except when you can't eat yet",
-        "when today ends, your age grew up by one",
-        "the candles might be your age, or as many as your age",
-        "or maybe not",
-        "happy birthday"
-        "here's your digital birthday cake:"
-        "( o˘◡˘o) ┌iii┐"
-        "blow out the candles!"
-        "( o˘◡˘o) ┌lll┐"
-        "good job"
-        "have a great birthday!"
-        ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
      * "对应上面的文字, 要完全一样" : "图片地址, 可以把图片放在imgs文件夹中"
@@ -42,7 +23,8 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
- texts:[
+ var config = {
+     texts:[
         "today is ur birthday",
         "happy birthday to you",
         "you were born when you were born",
