@@ -23,7 +23,7 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
-        texts:[
+        texts:
         "today is ur birthday",
         "happy birthday to you",
         "you were born when you were born",
@@ -34,10 +34,9 @@ var config = {
         "the candles might be your age, or as many as your age",
         "or maybe not",
         "happy birthday"
-        "here's your digital birthday cake:"
-        "( o˘◡˘o) ┌iii┐"
-        "blow out the candles!"
-        "( o˘◡˘o) ┌lll┐"
-        "good job"
-        "have a great birthday!"
-        ],
+        "here's your digital birthday cake:",
+        "| o˘◡˘o) ┌iii┐",
+        "blow out the candles!",
+        "| o˘◡˘o) ┌lll┐",
+        "good job",
+        "have a great birthday!",
