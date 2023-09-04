@@ -23,7 +23,7 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
- var config = {
+ var config =
      texts:[
         "today is ur birthday",
         "happy birthday to you",
